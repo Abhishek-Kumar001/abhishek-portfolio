@@ -20,7 +20,7 @@ export const experience = [
   {
     company: 'Vaastaman Solutions Pvt. Ltd.',
     role: 'Full Stack Engineer',
-    period: 'Nov 2024 – May 2025',
+    period: 'Oct 2024 – May 2025',
     points: [
       'Developed responsive user interfaces using React.js and Tailwind CSS.',
       'Followed secure coding practices including input validation and modular architecture',
