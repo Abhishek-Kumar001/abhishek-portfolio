@@ -19,8 +19,18 @@ export const experience = [
   },
   {
     company: 'Vaastaman Solutions Pvt. Ltd.',
-    role: 'Web Developer Intern',
-    period: 'Dec 2024 – May 2025',
+    role: 'Full Stack Engineer',
+    period: 'Nov 2024 – May 2025',
+    points: [
+      'Developed responsive user interfaces using React.js and Tailwind CSS.',
+      'Followed secure coding practices including input validation and modular architecture',
+      'Collaborated with senior developers using Git-based workflows and Agile development',
+    ],
+  },
+  {
+    company: 'Vaastaman Solutions Pvt. Ltd.',
+    role: 'Full Stack Intern',
+    period: 'Apr 2024 – Sep 2024',
     points: [
       'Built 15+ reusable React components, accelerating dev velocity by 40%; resolved 50+ bugs across React & Node.js.',
       'Enforced security best practices — encrypted data flow, input validation, and modular codebase architecture.',
